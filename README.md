@@ -36,8 +36,8 @@ This project proves that the program runs successfully on my computer.
 ## Output Screenshot
 - Full window screenshot included  
 - VS Code terminal visible  
-- Project folder renamed with student name
-- <img width="1919" height="1077" alt="Image" src="https://github.com/user-attachments/assets/43ece9dd-6c92-4528-a802-d387bfd1c81c" />
+- Project folder renamed with studen
+- <img width="1918" height="1048" alt="Image" src="https://github.com/user-attachments/assets/391fd28a-8ff7-48f2-a644-5762a01a540f" />
 
 ---
 
