@@ -11,7 +11,7 @@ This project proves that the program runs successfully on my computer.
 
 ## Student Information
 - Name: Abir
-- Course: Course Name
+- Course: Computer Graphics and Multimedia Lab 6B
 - Editor: VS Code
 - Platform: Windows
 
