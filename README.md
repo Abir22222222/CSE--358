@@ -10,7 +10,7 @@ This project proves that the program runs successfully on my computer.
 ---
 
 ## Student Information
-- Name: Abir
+- Name: Abir Talukdar (1078)
 - Course: Computer Graphics and Multimedia Lab 6B
 - Editor: VS Code
 - Platform: Windows
