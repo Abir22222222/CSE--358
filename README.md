@@ -20,6 +20,9 @@ This project confirms that the program runs successfully on my computer.
 - Platform: Windows
 
 ---
+#Screenshot: <img width="1916" height="1043" alt="Image" src="https://github.com/user-attachments/assets/3477017a-a515-4c64-a080-fdee8a606ec1" />
+
+---
 
 ## Features
 - Orange background window
