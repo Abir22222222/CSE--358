@@ -1,45 +1,37 @@
-# Cyan Window Keyboard Control Assignment
+# Two Cyan Triangles Project
 
 ## Project Description
-This project is created for a course assignment.  
-The program opens a **cyan colored window** where the **window title contains my full name**.  
-If the user presses the **first letter of my name** from the keyboard, the window **closes automatically**.
+This project is created as a course assignment.
 
-This project proves that the program runs successfully on my computer.
+The program displays a window with an **orange background** and draws **two cyan colored obtuse triangles** at two distant corners of the screen.
+
+The window title contains **my full name**.  
+Pressing the **first letter of my name** from the keyboard will **close the window**.
+
+This project confirms that the program runs successfully on my computer.
 
 ---
 
 ## Student Information
-- Name: Abir Talukdar (1078)
-- Course: Computer Graphics and Multimedia Lab 6B
+- Name: Abir Talukdar(1078)
+- Course: Computer Graphics and Multimedia Lab 6B Computer Graphics and Multimedia Lab 6B
 - Editor: VS Code
+- Language: C++ (main.cpp)
 - Platform: Windows
 
 ---
 
 ## Features
-- Cyan colored GUI window
+- Orange background window
+- Two cyan obtuse triangles at distant corners
 - Window title shows full name
-- Keyboard key detection
-- Window closes on specific key press
-- Clean, formatted, and commented code
+- Keyboard input detection
+- Window closes when initial key is pressed
+- Clean and commented code
 - Original work
 
 ---
 
 ## How to Run
-1. Open the project folder in VS Code  
-2. Run the main program file from the VS Code terminal  
-
----
-
-## Output Screenshot
-- Full window screenshot included  
-- VS Code terminal visible  
-- Project folder renamed with studen
-- <img width="1918" height="1048" alt="Image" src="https://github.com/user-attachments/assets/391fd28a-8ff7-48f2-a644-5762a01a540f" />
-
----
-
-## Declaration
-I hereby declare that this project is my **own original work** and it runs successfully on my computer.
+1. Open the project folder in VS Code
+2. Compile the program:
