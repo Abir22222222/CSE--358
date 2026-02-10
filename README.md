@@ -31,7 +31,8 @@ This project confirms that the program runs successfully on my computer.
 - Original work
 
 ---
-
+#Screenshot: <img width="1916" height="1043" alt="Image" src="https://github.com/user-attachments/assets/3477017a-a515-4c64-a080-fdee8a606ec1" />
+---
 ## How to Run
 1. Open the project folder in VS Code
 2. Compile the program:
