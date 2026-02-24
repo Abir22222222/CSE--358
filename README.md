@@ -1,11 +1,11 @@
-# Two Cyan Triangles Project
+# Cyan Star Project
 
 ## Project Description
-This project is created as a course assignment.
+This project is created for a course assignment.
 
-The program displays a window with an **orange background** and draws **two cyan colored obtuse triangles** at two distant corners of the screen.
+The program displays a window with a **yellow background** and draws **one cyan colored star**, built only using triangles.
 
-The window title contains **my full name**.  
+The window title contains **my full ID**.  
 Pressing the **first letter of my name** from the keyboard will **close the window**.
 
 This project confirms that the program runs successfully on my computer.
@@ -13,8 +13,10 @@ This project confirms that the program runs successfully on my computer.
 ---
 
 ## Student Information
-- Name: Abir Talukdar(1078)
-- Course: Computer Graphics and Multimedia Lab 6B Computer Graphics and Multimedia Lab 6B
+- Name: Abir Talukdar
+- ID: 0432320005101078
+- Course: Computer Graphics and Multimedia Lab
+
 - Editor: VS Code
 - Language: C++ (main.cpp)
 - Platform: Windows
@@ -22,17 +24,28 @@ This project confirms that the program runs successfully on my computer.
 ---
 
 ## Features
-- Orange background window
-- Two cyan obtuse triangles at distant corners
-- Window title shows full name
+- Yellow background window
+- One cyan star (constructed using triangles only)
+- Window title shows student ID
 - Keyboard input detection
-- Window closes when initial key is pressed
+- Window closes when name's initial key is pressed
 - Clean and commented code
 - Original work
 
 ---
-#Screenshot: <img width="1919" height="1046" alt="Image" src="https://github.com/user-attachments/assets/49179b72-3e3e-428c-b1ae-82367eb8edac" />
----
+
 ## How to Run
-1. Open the project folder in VS Code
+1. Open the project folder in VS Code  
 2. Compile the program:
+3. Run the program:
+---
+
+## Output
+- Full window screenshot included
+- VS Code terminal visible
+- Project folder renamed with student name/ID
+
+---
+
+Screenshot : <img width="1237" height="1042" alt="Image" src="https://github.com/user-attachments/assets/1c5d1310-9b0c-4f6f-a3f8-338d3d6b529a" />
+---
