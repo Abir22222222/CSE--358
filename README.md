@@ -47,5 +47,4 @@ This project confirms that the program runs successfully on my computer.
 
 ---
 
-Screenshot : <img width="1237" height="1042" alt="Image" src="https://github.com/user-attachments/assets/1c5d1310-9b0c-4f6f-a3f8-338d3d6b529a" />
----
+Screenshot : <img width="1912" height="1041" alt="Image" src="https://github.com/user-attachments/assets/7343d296-a834-4f2a-8489-ae8378756e0b" />---
