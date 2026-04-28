@@ -1,50 +1,53 @@
-# Cyan Star Project
+🔷 Triangle Animation Project
+Project Description
 
-## Project Description
 This project is created for a course assignment.
 
-The program displays a window with a **yellow background** and draws **one cyan colored star**, built only using triangles.
+The program displays a window with a dark background and draws one triangle.
 
-The window title contains **my full ID**.  
-Pressing the **first letter of my name** from the keyboard will **close the window**.
+The triangle is initially cyan and smoothly transitions to magenta using animation.
+
+Pressing W key makes the triangle white while the key is held.
+Releasing the key resumes the animation.
+
+Pressing R key makes the triangle red permanently, and the animation stops.
+
+The window title contains my full ID.
+Pressing the first letter of my name from the keyboard will close the window.
 
 This project confirms that the program runs successfully on my computer.
 
----
+Student Information:
+Name: Abir Talukdar
+ID: 0432320005101078
+Course: Computer Graphics and Multimedia Lab
+Editor: VS Code
+Language: C++ (main.cpp)
+Platform: Windows
 
-## Student Information
-- Name: Abir Talukdar
-- ID: 0432320005101078
-- Course: Computer Graphics and Multimedia Lab
+Features:
+Dark background window
+One triangle (OpenGL rendering)
+Smooth color animation (cyan ↔ magenta)
+W key: temporary white color
+R key: permanent red color
+Window title shows student ID
+Keyboard input detection
+Window closes when name's initial key (A) is pressed
+Clean and commented code
+Original work
 
-- Editor: VS Code
-- Language: C++ (main.cpp)
-- Platform: Windows
+How to Run:
+Open the project folder in VS Code
+Compile the program
+Run the program
 
----
+Output:
+Full window screenshot included
+Animation screenshot included
+White color (W key) screenshot
+Red color (R key) screenshot
+VS Code terminal visible
+Project folder renamed with student name/ID
 
-## Features
-- Yellow background window
-- One cyan star (constructed using triangles only)
-- Window title shows student ID
-- Keyboard input detection
-- Window closes when name's initial key is pressed
-- Clean and commented code
-- Original work
-
----
-
-## How to Run
-1. Open the project folder in VS Code  
-2. Compile the program:
-3. Run the program:
----
-
-## Output
-- Full window screenshot included
-- VS Code terminal visible
-- Project folder renamed with student name/ID
-
----
-
-Screenshot : <img width="1912" height="1041" alt="Image" src="https://github.com/user-attachments/assets/7343d296-a834-4f2a-8489-ae8378756e0b" />---
+Screenshot
