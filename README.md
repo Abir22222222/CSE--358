@@ -18,7 +18,9 @@ This project confirms that the program runs successfully on my computer.
 Student Information
 -------------------------
 Name: Abir Talukdar
+
 ID: 0432320005101078
+
 Course: Computer Graphics and Multimedia Lab
 Editor: VS Code
 Language: C++ (main.cpp)
