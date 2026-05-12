@@ -54,5 +54,5 @@ Scaling (zoom-in/out) screenshot
 VS Code terminal visible
 Project folder renamed with student name/ID
 -------------------------------------------------------
-Screenshot : 
+Screenshot : https://github.com/user-attachments/assets/ea6c67f2-3b2d-4564-9fff-3d08974c6705
 
